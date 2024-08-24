@@ -1,4 +1,4 @@
-                                                    ## Hi there 👋, I'm Mohit Yadav
+                                                     Hi there 👋, I'm Mohit Yadav
 
 
 <!--
