@@ -1,162 +1,92 @@
-<h1 align="center">Hi 👋, I'm Mohit Yadav</h1>
-<h3 align="center">🚀 MERN Stack Developer | Open Source Contributor | MCA @ KIET Ghaziabad</h3>
+## Hey, I'm Mohit 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer;Open+Source+Contributor;300%2B+DSA+Problems+Solved;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
+<img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding"/>
+
+<p align="left">
+  <a href="https://github.com/mont-y-001"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://linkedin.com/in/monty001"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </p>
 
-<br>
+MERN Stack Developer pursuing an MCA at KIET Group of Institutions. I build scalable full-stack web applications, solve DSA problems, and contribute to open source through GSSoC. Currently exploring AI-powered applications, System Design, and DevOps.
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
-
-## 🚀 About Me
-
-- 🎓 Pursuing **MCA** at **KIET Group of Institutions**
-- 💻 Passionate **Full Stack MERN Developer**
-- 🌱 Currently learning **System Design, Docker & DevOps**
-- 🔥 **GSSoC 2024 Contributor**
-- 🧠 Solved **300+ DSA Problems**
-- 🚀 Love building real-world, scalable applications
-- 🎯 Goal: Software Engineer at a Product-Based Company
+<p align="left">
+  <img src="https://img.shields.io/github/stars/mont-y-001?label=Total%20Stars&style=flat&color=00ff88&logo=github" alt="Total Stars"/>
+  <img src="https://komarev.com/ghpvc/?username=mont-y-001&label=Profile%20views&color=00ff88&style=flat" alt="Profile views"/>
+</p>
 
 <br clear="right"/>
 
-## 🌐 Connect with Me
+---
 
-<p align="left">
-  <a href="https://linkedin.com/in/monty001" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/mont-y-001" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:yourmail@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
-
-<br>
-
-## 💻 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,postgres,tailwind,cpp,c,java,python,docker,git,github,vscode,postman,firebase&perline=11" alt="Tech Stack"/>
-</p>
-
-<br>
-
-## 🚀 Featured Projects
+## What I Build
 
 <table>
-  <tr>
-    <td width="50%">
-      <h3>🧑‍🎓 Campus Connect</h3>
-      <p>Anonymous campus social platform with real-time chat, notifications, and image uploads.</p>
-      <b>Stack:</b> Next.js 16 • TypeScript • PostgreSQL • Prisma • Tailwind v4 • Socket.io • Redis
-      <br><br>
-      <a href="https://github.com/mont-y-001/campus-connect">🔗 Repo</a>
-    </td>
-    <td width="50%">
-      <h3>🧵 TailorHub</h3>
-      <p>Full-stack platform connecting customers with local tailors, with AI-assisted features.</p>
-      <b>Stack:</b> React • Node.js • Express • MongoDB • JWT • Gemini API • Supabase Storage
-      <br><br>
-      <a href="https://github.com/mont-y-001/tailorhub">🔗 Repo</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🎥 AttendAI</h3>
-      <p>AI-powered attendance system with 7-layer anti-proxy verification (facial recognition, GPS geofencing, liveness detection).</p>
-      <b>Stack:</b> React • Vite • FastAPI • DeepFace • MediaPipe • PostgreSQL • Redis
-      <br><br>
-      <a href="https://github.com/mont-y-001/attendai">🔗 Repo</a>
-    </td>
-    <td width="50%">
-      <h3>🏨 SheyRooms</h3>
-      <p>Hotel booking platform with browsing, reservations, and booking management.</p>
-      <b>Stack:</b> React • Supabase
-      <br><br>
-      <a href="https://github.com/mont-y-001/sheyrooms">🔗 Repo</a>
-    </td>
-  </tr>
+<tr>
+<td width="50%">
+
+### [Campus Connect](https://github.com/mont-y-001/campus-connect)
+
+Anonymous campus social platform exclusively for verified students with real-time chat, image sharing, notifications, and secure JWT authentication.
+
+`Next.js` `TypeScript` `Prisma` `PostgreSQL` `Socket.io` `Redis`
+
+</td>
+<td width="50%">
+
+### [TailorHub](https://github.com/mont-y-001/tailorhub)
+
+Full-stack platform connecting customers with local tailors featuring online bookings, provider dashboards, secure authentication, and AI-assisted order matching.
+
+`React` `Node.js` `Express` `MongoDB` `JWT` `Gemini API`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### [Sevak AI](https://github.com/mont-y-001/sevak-ai)
+
+AI-powered citizen assistant that helps users discover government schemes, answer public service queries, and simplify access to digital services using Generative AI.
+
+`Next.js` `TypeScript` `Node.js` `MongoDB` `Gemini API`
+
+</td>
+
+<td width="50%">
+
+### [StayVerse](https://github.com/mont-y-001/stayverse)
+
+Modern hotel booking platform with room search, secure authentication, booking management, and responsive user dashboards.
+
+`React` `Supabase` `TypeScript` `Tailwind CSS`
+
+</td>
+</tr>
 </table>
 
-> 📝 Replace the repo links above with your actual GitHub repository URLs.
+---
 
-<br>
-
-## 📊 GitHub Analytics
+## GitHub Activity
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mont-y-001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mont-y-001&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mont-y-001&theme=dark&hide_border=true&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88" width="60%" alt="GitHub Streak"/>
 </p>
+
+
+---
+
+## Tech Stack
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mont-y-001&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgres,mysql,tailwind,cpp,java,python,docker,git,github,vscode,postman,vercel&perline=7" alt="Tech Stack"/>
 </p>
+
+---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mont-y-001&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mont-y-001&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</p>
-
-> ⚙️ The snake animation needs a GitHub Action set up in a repo named the same as your username (`mont-y-001/mont-y-001`) to keep updating. See [platane/snk](https://github.com/Platane/snk) for the workflow file.
-
-<br>
-
-## ⚡ Coding Profiles
-
-<p align="left">
-  <a href="https://leetcode.com/u/mont-y-001/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
-  <a href="https://www.codechef.com/users/mont_y_001" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
-  </a>
-  <a href="https://codeforces.com/profile/mont_y_001" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/mont_y_001/" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
-  </a>
-</p>
-
-> 📝 Swap in your real usernames — the badges above will 404 until the URLs match your actual profiles.
-
-<br>
-
-## 📌 Current Focus
-
-```text
-✔ Advanced React
-✔ Backend Architecture
-✔ System Design
-✔ Open Source
-✔ DevOps
-✔ DSA (Segment Tree, BIT, DSU, DP)
-```
-
-<br>
-
-## 💡 Quote
-
-> *"Consistency beats intensity."*
-
-<br>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mont-y-001&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views"/>
-</p>
-
-<p align="center">
-  ⭐ Thanks for visiting my profile!
+  <a href="https://leetcode.com/u/mont_y_001/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="https://www.codechef.com/users/mont_y_001"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/></a>
+  <a href="https://www.geeksforgeeks.org/profile/my266620"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/></a>
 </p>
